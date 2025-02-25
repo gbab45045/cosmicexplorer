@@ -1,1 +1,1 @@
-# cosmicexplorer
+# cosmicexpl
